@@ -19,7 +19,7 @@ const RECIPES = [
     difficulty: "Easy",
     rating: 4.9,
     reviewsCount: 342,
-    image: "images/bread.jpg",
+    image: "bread.jpg",
     fallbackImage: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1000&q=80",
     description: "No kneading required! Golden crust, airy open crumb, and deep flavor. Perfect for US & Canadian home bakers using standard Dutch ovens.",
     nutrition: {
@@ -67,7 +67,7 @@ const RECIPES = [
     difficulty: "Easy",
     rating: 4.8,
     reviewsCount: 289,
-    image: "images/cookie.jpg",
+    image: "cookie.jpg",
     fallbackImage: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?auto=format&fit=crop&w=1000&q=80",
     description: "Melt-in-your-mouth butter sugar cookies with crisp edges and soft chewy centers. A staple for US & Canadian holiday baking and weekday treats.",
     nutrition: {
@@ -118,7 +118,7 @@ const RECIPES = [
     difficulty: "Easy",
     rating: 5.0,
     reviewsCount: 512,
-    image: "images/banana_bread.jpg",
+    image: "banana_bread.jpg",
     fallbackImage: "https://images.unsplash.com/photo-1603532648955-039310d9ed75?auto=format&fit=crop&w=1000&q=80",
     description: "The #1 requested banana bread across US & Canada. Packed with overripe bananas, Greek yogurt for ultra-moisture, and semi-sweet chocolate chunks.",
     nutrition: {
